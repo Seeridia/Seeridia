@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Seeridia&include_all_commits=true&count_private-true&custom_title=Anyayay'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seeridia&layout=compact&langs_count=8&card_width=320" />
 </a>
 
