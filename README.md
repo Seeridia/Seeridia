@@ -27,11 +27,11 @@
 ### Contact Me
 
 <p>
-  <a href="https://github.com/Tencent/cherry-markdown"><img src="/images/ContactMe/Email.png" width="35%" alt="Email"></a>
+  <a href="mailto:seeridia@gmail.com"><img src="/images/ContactMe/Email.png" width="35%" alt="Email"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Tencent/cherry-markdown"><img src="/images/ContactMe/QQ.png" width="26%" alt="QQ"></a>
+  <a href="https://qm.qq.com/q/N0WWQm6lSG"><img src="/images/ContactMe/QQ.png" width="26%" alt="QQ"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/west2-online/fzuhelper-app"><img src="/images/ContactMe/Wechat.png" width="20%" alt="Wechat"></a>
+  <a><img src="/images/ContactMe/Wechat.png" width="20%" alt="Wechat"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/west2-online/fzuhelper-app"><img src="/images/ContactMe/Website.png" width="9%" alt="Website"></a>
+  <a href="https://seeridia.top"><img src="/images/ContactMe/Website.png" width="9%" alt="Website"></a>
 </p>
