@@ -13,7 +13,7 @@
 <p>
   <a href="https://github.com/Seeridia/clipboard-viewer"><img src="images/MyWorks/Clipboard-Viewer.png" width="48%" alt="Clipboard - 剪切板内容解析、调试工具"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Seeridia/Cardify"><img src="images/MyWorks/Cardify.png" width="48%" alt="Cardify - 神秘的新坑"></a>
+  <a href="https://github.com/Seeridia?tab=repositories"><img src="images/Repositories.png" width="48%" alt="My Repositories"></a>
 </p>
 
 ### My Contributions
