@@ -34,4 +34,6 @@
   <a><img src="images/ContactMe/Wechat.png" height="40px" alt="Wechat"></a>
   &nbsp;&nbsp;
   <a href="https://seeridia.top"><img src="images/ContactMe/Website.png" height="40px" alt="Website"></a>
+  <img src="https://cloud.umami.is/p/d9hR6fFwE">
 </p>
+
